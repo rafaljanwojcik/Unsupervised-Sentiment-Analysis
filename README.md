@@ -19,7 +19,7 @@ Confusion Matrix
  
 Scores
 |-----------|----------|
-| accuracy  | 0.802503  |
+| accuracy  | 0.802503 |
 | precision | 0.999398 |
 | recall    | 0.799930 |
 | F1        | 0.888608 |

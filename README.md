@@ -1,5 +1,5 @@
 # Unsupervised-Sentiment-Analysis
-How to extract sentiment from opinions without having them labeled
+How to extract sentiment from the data without any labels
 
 Repo for article .... on Unsupervised Sentiment Analysis on Polish Sentiment Dataset.
 

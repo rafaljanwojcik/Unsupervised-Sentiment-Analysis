@@ -1,0 +1,5 @@
+unidecode
+numpy>='1.20.0'
+pandas>='1.2.1'
+gensim>='4.1.2'
+scikit-learn>='0.24.2'
